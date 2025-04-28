@@ -5,7 +5,7 @@ import datetime
 import re
 from deta import Deta
 
-Deta_KEY = "a0vqrphqnuy_v5zxxwmRDssLEJopgX3MvtS3ethfF9PM"
+Deta_KEY = "Hidden key"
 
 deta = Deta(Deta_KEY)
 
